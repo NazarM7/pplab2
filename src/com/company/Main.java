@@ -7,8 +7,8 @@ class Main {
     public static void main(String[] args) {
        createClients();
 
-       //виводимо список покупців із вказаним іменем
-        String name = "Sergei";
+       //виводимо список п окупців із вказаним іменем
+        String name = "Sergei" ;
         System.out.println("Покупці з іменем " + name);
         System.out.println(searchName(name));
 
